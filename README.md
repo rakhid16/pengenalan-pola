@@ -1,2 +1,7 @@
-# pengenalan-pola
-buat nampung tugas dari matkul pengenalan pola
+# Pengenalan Pola
+
+Repositori ini berisi implementasi algoritma untuk mata kuliah Pengenalan Pola menggunakan NumPy:
+
+- Multiclass Perceptron
+- K-Means Clustering
+- Extreme Learning Machine
